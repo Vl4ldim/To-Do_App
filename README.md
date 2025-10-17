@@ -26,14 +26,3 @@ Look at the app screenshot below. Let's look at the main components of the appli
    `npm start`
 5. In browser search bar type next text `http://localhost:3000/` or it will open automatically
 6. Enjoy it!
-**********
-**How does it look like**:eyes:
-
-*Screen of app*
-![howdoesitlooklikelight](mats/howitislooklike.png)
-**********
-I just relax and gained experience here.
-
-Still in progress? Convert to draft!:wink:
-
->Cause we are the ones that want to play. Always want to go, but you never wanna stay. And we are the ones that want to choose. Always want to play, but you never want to lose :microphone:System Of a Down — Aerials
